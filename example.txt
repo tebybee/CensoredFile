@@ -1,0 +1,2 @@
+First of all, the class is having fun learning how to read a file... but,
+we hope reading character-by-character will work
